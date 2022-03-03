@@ -1,0 +1,10 @@
+ 
+ ​Tuple1=["nani","saranya","vivek","prameela"]  
+ ​Tuple2=["1","2","3","4","5","6"]  
+ ​Tuple3=Tupleq+Tuple2
+ ​print(Tuple3)  
+
+
+
+ ​Output  
+ ​['nani','saranya','vivek','prameela','1','2','3','4','5','6',]
